@@ -18,20 +18,27 @@ A modern Zerodha Clone built using React, Vite, and Tailwind CSS to replicate th
 - Deployment: Vercel / Netlify  
 
 🛠️ Installation & Usage
+
 1️⃣ Clone the Repository
+
 git clone https://github.com/your-username/zerodha-clone.git
 
 2️⃣ Navigate into the project folder
+
 cd zerodha-clone
 
 3️⃣ Install dependencies
+
 npm install
 
 4️⃣ Start the development server
+
 npm run dev
 
 📝 Contributing
+
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
 📜 Credits
+
 Developed by Ayush Raj-
