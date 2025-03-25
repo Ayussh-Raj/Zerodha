@@ -1,0 +1,28 @@
+.container {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    flex-direction: row; /* Explicitly set for horizontal layout */
+    align-items: stretch; /* Children take full height */
+    box-sizing: border-box;
+    gap: 20px; /* Space between WatchList and content */
+  }
+  
+  .content {
+    flex: 1; /* Takes remaining space */
+    height: 100%;
+    box-sizing: border-box;
+    overflow-y: auto;
+    padding: 3% 2%;
+    min-height: 0; /* Crucial for proper scroll in flex container */
+    background-color: #f1f3f6; /* Match Zerodha's background */
+  }
+  
+  /* Add these styles for the WatchList sidebar */
+  /* (Assuming your WatchList component is in a parent div) */
+  .container > div:first-child {
+    flex: 0 0 300px; /* Fixed width sidebar */
+    background: white;
+    padding: 15px;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.05);
+  }
