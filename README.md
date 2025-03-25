@@ -41,4 +41,4 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 📜 Credits
 
-Developed by Ayush Raj-(https://github.com/Ayussh-Raj)
+Developed by Ayush Raj – [GitHub](https://github.com/Ayussh-Raj)
