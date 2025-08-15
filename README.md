@@ -2,7 +2,7 @@
 
 A modern Zerodha UI built using React, Vite, and Tailwind CSS to replicate the functionality and UI of the popular trading platform.
 
-![image](https://github.com/user-attachments/assets/b36c7619-fd97-4f13-9ffd-628c8a6c34ec)
+
 
 🚀 Features
 - ✅ Fully responsive design  
